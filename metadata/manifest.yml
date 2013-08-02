@@ -53,5 +53,5 @@ Endpoints:
     Public-Port-Name:  DB_PROXY_PORT
 #Source-Url: https://github.com/jhou1/v2mysql.git
 #Source-Url: git://github.com/jhou1/v2mysql.git
-Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.tar.gz
-#Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.zip
+#Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.tar.gz
+Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.zip
