@@ -13,6 +13,9 @@ Categories:
   - service
   - database
   - embedded
+  - memcache
+  - jmx
+  - soap
 Website: http://www.mysql.com
 Help-Topics:
   - "Building with MySQL" : http://docs.redhat.com/docs/en-US/OpenShift/2.0/html/User_Guide/sect-User_Guide-Working_With_Database_Cartridges.html
@@ -51,7 +54,7 @@ Endpoints:
     Private-Port-Name: DB_PORT
     Private-Port:      3306
     Public-Port-Name:  DB_PROXY_PORT
-    Protocols: [mysql]
+    Protocols: [mysql, whatever]
 #Source-Url: https://github.com/jhou1/v2mysql.git
 #Source-Url: git://github.com/jhou1/v2mysql.git
 #Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.tar.gz
