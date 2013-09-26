@@ -56,4 +56,4 @@ Endpoints:
 #Source-Url: git://github.com/jhou1/v2mysql.git
 #Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.tar.gz
 #Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.zip
-Source_Url: https://github.com/jhou1/openshift-custom-mysql.git
+Source-Url: https://github.com/jhou1/openshift-custom-mysql.git
