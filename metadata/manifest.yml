@@ -13,7 +13,6 @@ Categories:
   - service
   - database
   - embedded
-  - memcache
   - jmx
   - soap
   - load_balancer
@@ -57,7 +56,7 @@ Endpoints:
     Private-Port-Name: DB_PORT
     Private-Port:      3306
     Public-Port-Name:  DB_PROXY_PORT
-    Protocols: [mysql, whatever]
+    Protocols: [mysql, whatever, memcache]
 #Source-Url: https://github.com/jhou1/v2mysql.git
 #Source-Url: git://github.com/jhou1/v2mysql.git
 #Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.tar.gz
