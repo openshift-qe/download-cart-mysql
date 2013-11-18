@@ -59,6 +59,7 @@ Endpoints:
     Protocols: [mysql, whatever, memcache]
 #Source-Url: https://github.com/jhou1/v2mysql.git
 #Source-Url: git://github.com/jhou1/v2mysql.git
-#Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.tar.gz
+Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.tar.gz
 #Source-Url: https://github.com/jhou1/v2mysql/raw/master/v2mysql.zip
-Source-Url: https://github.com/jhou1/openshift-custom-mysql.git
+#Source-Url: https://github.com/jhou1/openshift-custom-mysql.git
+Source-Md5:  c6c19974230c42ccc2a98642f957037a # v2mysql.tar.gz
